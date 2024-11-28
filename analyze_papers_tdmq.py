@@ -59,7 +59,7 @@ def read_txt_file(txt_path):
 
 def main():
     folder_path = input("请输入论文文件夹的路径：")
-    output_file = 'analysis_results2.txt'
+    output_file = 'analysis_results.txt'
 
     results = []
 
